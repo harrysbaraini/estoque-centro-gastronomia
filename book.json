@@ -1,0 +1,6 @@
+{
+  "plugins": ["styles-sass", "image-captions"],
+  "styles": {
+      "pdf": "styles/pdf.scss"
+  }
+}
